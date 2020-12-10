@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: harsh.rana
+Build-Jdk: 11.0.7
+Implementation-Title: UserServiceMs
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.user
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/UserServiceMs
+Created-By: Maven Integration for Eclipse
+
